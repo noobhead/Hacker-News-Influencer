@@ -1,0 +1,7 @@
+From the analysis of this project, it shows that:
+    
+1. "blogspot.com" submits articles most often to Hacker News, followed by "github.com"
+
+2. The ideal time to submit the article at Hacker News is between 14 hour - 17 hour UTC.
+
+3. The list of most common words in the headlies can be seen by running the "count.py" file. 

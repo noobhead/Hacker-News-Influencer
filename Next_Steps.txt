@@ -1,0 +1,5 @@
+Some potential next steps for the analysis could be:
+
+1. What headline length leads to the most upvotes?
+2. What submission time leads to the most upvotes?
+3. How are the total numbers of upvotes changing over time? 
